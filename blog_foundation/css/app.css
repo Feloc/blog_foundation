@@ -1,0 +1,18 @@
+body{
+  background: url(../img/food-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.contenedor{
+  background-color: rgba(48, 165, 209, 0.5);
+}
+.lista{
+  border: 2px solid white;
+  border-radius: 20px;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+.borde{
+  border-top: 2px solid rgba(255,255,255,0.5);
+}
